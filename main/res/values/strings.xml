@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">POiSOI</string>
+    <string name="vibor">Выберите подгруппу</string>
+    <string name="podgrop1">1 подгруппа</string>
+    <string name="podgrup2">2 подгруппа</string>
+    <string name="vpered">Вперед!</string>
+    <string name="exit">Выход</string>
+    <string name="pusto"> </string>
+    <string name="back">Назад</string>
+
+</resources>
